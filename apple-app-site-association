@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "7EHQLB63J6.io.campuscruiser.stratago",
+                "paths": [ "*" ]
+            },
+            {
+                "appID": "7EHQLB63J6.io.campuscruiser.stratago",
+                "paths": [ "/products/*" ]
+            }
+        ]
+    }
+}
