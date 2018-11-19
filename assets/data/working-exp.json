@@ -1,0 +1,216 @@
+[
+  {
+    "title": "Strata GO/360/PRO",
+    "date": "Mar. 2017",
+    "type": "project",
+    "detail": {
+      "name": "Strata GO/360/PRO: Cloud platform service for higher education",
+      "role": "Project Lead",
+      "tech": [
+        "Java", 
+        "Gradle", 
+        "CI/CD",
+        "Zookeeper",
+        "Oracle DB",
+        "Elastic search",
+        "Jenkins",
+        "AngularJS",
+        "RxJS", 
+        "VanilliaJs", 
+        "BackBone.Js", 
+        "Require.js",
+        "Ionic Framework",
+        "FCM",
+        "Google Maps API",
+        "Restful API",
+        "Swagger API",
+        "10,000+ concurrent users cloud service"
+      ],
+      "content": [
+        "Backend system architect.",
+        "Market analysis and requirement design.",
+        "Development and deployment process management(CI/CD).",
+        "Front-end framework code generator.",
+        "Team code review."
+      ]
+    }
+  },
+  {
+    "title": "X2B(Moocs to Business) platform cloud service - Cathay",
+    "date": "June 2016",
+    "type": "project",
+    "detail": {
+      "name": "X2B(Moocs to Business) platform cloud service - Cathay",
+      "role": "Project Lead",
+      "tech": [
+        "Java", 
+        "Ant", 
+        "Oracle DB",
+        "AngularJS",
+        "Ionic Framework",
+        "Grunt",
+        "TCC API framework",
+        "Mateial web design"
+      ],
+      "content": [
+        "Requirement analysis and system design.",
+        "Training and management the foreign cooperation team.",
+        "Development process management.",
+        "Web front-end and back-end development.",
+        "API framework redesign and implements."
+      ]
+    }
+  },
+  {
+    "title": "X2B(Moocs to Business) platform cloud service – Nippon Paint",
+    "date": "June 2015",
+    "type": "project",
+    "detail": {
+      "name": "X2B(Moocs to Business) platform cloud service – Nippon Paint",
+      "role": "Project Lead",
+      "tech": [
+        "Java", 
+        "Ant", 
+        "Oracle DB",
+        "AngularJS",
+        "Ionic Framework",
+        "Grunt",
+        "Scorm"
+      ],
+      "content": [
+        "Requirement analysis and design.",
+        "API and mobile app system design.",
+        "Mobile app front-end development.",
+        "UI/UX enhancement."
+      ]
+    }
+  },
+  {
+    "title": "E-Portfolio: LMS moudle on Moocs platform service",
+    "date": "Mar. 2015",
+    "type": "project",
+    "detail": {
+      "name": "E-Portfolio: LMS moudle on Moocs platform service",
+      "role": "Project Lead",
+      "tech": [
+        "Java", 
+        "Ant", 
+        "Oracle DB",
+        "TCC LMS module"
+      ],
+      "content": [
+        "Requirement analysis and system design.",
+        "Front-end and back-end development.",
+        "UI/UX enhancement."
+      ]
+    }
+  },
+  {
+    "title": "X2C(Moocs to Customer) platform cloud service – Tibame",
+    "date": "Oct. 2014",
+    "type": "project",
+    "detail": {
+      "name": "X2C(Moocs to Customer) platform cloud service – Tibame",
+      "role": "Project Lead",
+      "tech": [
+        "Java", 
+        "Ant", 
+        "Oracle DB"
+      ],
+      "content": [
+        "Market analysis and requirement design.",
+        "Training and code review.",
+        "Web front-end and back-end development.",
+        "UI/UX enhancement."
+      ]
+    }
+  },
+  {
+    "title": "Join Campuscruiser Computing Corporation!!",
+    "date": "Oct. 2014",
+    "type": "personal",
+    "detail": {
+      "name": "Campuscruiser Computing Corp.",
+      "url": "https://www.campuscruiser.com"
+    }
+  },
+  {
+    "title": "Leave Mitake Information Corp.",
+    "date": "Oct. 2014",
+    "type": "personal",
+    "detail": {
+      "name": "Leave Mitake Information Corp."
+    }
+  },
+  {
+    "title": "Taiwan Future Exchange Mobile App",
+    "date": "June 2013",
+    "type": "Program Architecture, programming",
+    "detail": {
+      "name": "Taiwan Future Exchange Mobile App",
+      "role": "Program Architecture, programming",
+      "tech": [
+        "Android SDK",
+        "Gradle",
+        "RoboGuice"
+      ],
+      "content": [
+        "Customized project development.",
+        "MVVM architect, by using RoboGuice to inverse the control(Ioc) from Android SDK."
+      ]
+    }
+  },
+  {
+    "title": "Taiwan Stock Exchange Mobile App",
+    "date": "June 2012",
+    "type": "project",
+    "detail": {
+      "name": "Taiwan Stock Exchange Mobile App",
+      "role": "Programming",
+      "tech": [
+        "Android SDK",
+        "Gradle"
+      ],
+      "content": [
+        "Use Mitake chart module to implement financial charts."
+      ]
+    }
+  },
+  {
+    "title": "Mitake Stock Tracking Mobile App",
+    "date": "Nov. 2011",
+    "type": "project",
+    "detail": {
+      "name": "Mitake Stock Tracking Mobile App",
+      "role": "Program Architecture, programming",
+      "tech": [
+        "Android SDK", 
+        "Gradle", 
+        "1,000,000 + user app maintance experience"
+      ],
+      "content": [
+        "Develop charting, strategy and technical analysis.",
+        "Participated in system design of intelligent trading report.",
+        "Taking in charge of programming architecture of 2nd generation product."
+      ]
+    }
+  },
+  {
+    "title": "Securities and telecoms customized mobile app",
+    "date": "Nov. 2011",
+    "type": "project",
+    "detail": {
+      "name": "Mitake Stock Tracking Mobile App",
+      "role": "Programming",
+      "tech": [
+        "Android SDK", 
+        "Gradle",
+        "Ant"
+      ],
+      "content": [
+        "Android pad version development.",
+        "Includes stock, future & option trading."
+      ]
+    }
+  }
+]
