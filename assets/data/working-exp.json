@@ -212,5 +212,40 @@
         "Includes stock, future & option trading."
       ]
     }
+  },
+  {
+    "title": "Join Mitake Information Corporation!!",
+    "date": "Nov. 2011",
+    "type": "personal",
+    "detail": {
+      "name": "Mitake Information Corporation"
+    }
+  },
+  {
+    "title": "Leave Galaxy Software Service Corp.",
+    "date": "Sep. 2011",
+    "type": "personal",
+    "detail": {
+      "name": "Leave Galaxy Software Service Corp."
+    }
+  },
+  {
+    "title": "The Examination Yuan of ROC official document management system",
+    "date": "June 2011",
+    "type": "project",
+    "detail": {
+      "name": "The Examination Yuan of ROC official document management system",
+      "role": "Project manager, Programming",
+      "tech": [
+        "C#", 
+        "IIS",
+        "JQuery",
+        "Epub"
+      ],
+      "content": [
+        "Customized project development.",
+        "Epub file read/write."
+      ]
+    }
   }
 ]
